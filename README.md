@@ -1,2 +1,2 @@
 # node-exercises
-My misserable attempts with node.js
+My miserable attempts with node.js
