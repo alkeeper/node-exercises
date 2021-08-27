@@ -1,5 +1,3 @@
 (function(d){
-
-    console.log(d.location.pathname);
-
+	console.log(d.location.pathname);
 })(document);
